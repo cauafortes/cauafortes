@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Cauã
 
-Sou um(a) **desenvolvedor(a)** admirador da tecnologia e inovação. Em formação em **Graduando em Sistema da informação**.
+Sou um **desenvolvedor** admirador da tecnologia e inovação. Em formação em **Graduando em Sistema da informação**.
 
 ---
 
