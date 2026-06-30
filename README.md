@@ -20,7 +20,6 @@ Sou um **desenvolvedor** admirador da tecnologia e inovação. Em formação no 
 
 
 
-
 </div>
  
  <br>
